@@ -3,7 +3,8 @@ ALDRED JOHN BASMAYOR
 ## EDUCATION
 https://www.neu.edu.ph/
 ## CERTIFICATION
-SQL And Relational Databases 101 - https://courses.cognitiveclass.ai/certificates/684ffa884ece4c6491e869fcc50b871f
+SQL And Relational Databases 101 - [https://courses.cognitiveclass.ai/certificates/684ffa884ece4c6491e869fcc50b871f](SQL And Relational Databases 101)
+
 ## Skillsets
 Web designing and Drawing
 
