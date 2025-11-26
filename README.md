@@ -1,5 +1,8 @@
-## Name
-Aldred John
+## ABOUT ME
+Name: Aldred John Basmayor
+Education: BSIT, New Era University
+Certificaction: SQL and Relational Databases 101 - https://courses.cognitiveclass.ai/certificates/684ffa884ece4c6491e869fcc50b871f
+Skillsets: Web Designing, Drawing
 
 <!--
 **aldredjohnbasmayor/aldredjohnbasmayor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
