@@ -4,6 +4,8 @@ ALDRED JOHN BASMAYOR
 https://www.neu.edu.ph/
 ## CERTIFICATION
 [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/684ffa884ece4c6491e869fcc50b871f)
+[Oracle Cloud Infrastructure Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=22E7270FCD5CF48B34224BF6763EB88055CB6CD2F7DCEF031F2BC21A5EA16636)
+
 ## Skillsets
 Web designing and Drawing
 
